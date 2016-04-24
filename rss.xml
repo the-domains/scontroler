@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[scontroler]]></title>
         <description><![CDATA[scontroler]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scontroler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 05:58:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 05:58:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scontroler/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5912f02-22c4-4ca1-ba6e-9f4029349d0c.png">]]></description>
+            <link>https://thegrid.ai/scontroler/e8b15890-082b-4de6-b6d6-59a3eb39ff75/index.html</link>
+            <guid isPermaLink="false">e8b15890-082b-4de6-b6d6-59a3eb39ff75</guid>
+            <pubDate>Sun, 24 Apr 2016 05:58:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>A new way to play your entire Steam library from the sofa.</p>]]></description>
-            <link>undefineda-new-way-to-play-your-entire-steam-library-from-the-sofa/index.html</link>
+            <link>https://thegrid.ai/scontroler/a-new-way-to-play-your-entire-steam-library-from-the-sofa/index.html</link>
             <guid isPermaLink="false">10b628f1-9673-45d4-aafb-22f3d7d856c3</guid>
             <pubDate>Sun, 24 Apr 2016 05:58:16 GMT</pubDate>
         </item>
