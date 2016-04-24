@@ -4,8 +4,15 @@
         <description><![CDATA[scontroler]]></description>
         <link>https://thegrid.ai/scontroler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 06:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 06:05:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scontroler/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HAPTICS]]></title>
+            <description><![CDATA[<article><h1>HAPTICS</h1><p>Trackpads, by their nature, are less physical than thumbsticks. By themselves, they are “light touch” devices and don’t offer the kind of visceral feedback that players get from pushing joysticks around. As we investigated trackpad-based input devices, it became clear through testing that we had to find ways to add more physicality to the experience. It also became clear that “rumble”, as it has been traditionally implemented (a lopsided weight spun around a single axis), was not going to be enough. Not even close.</p></article>]]></description>
+            <link>https://thegrid.ai/scontroler/haptics/index.html</link>
+            <guid isPermaLink="false">7754d064-7a86-45da-9cdb-a36db791329c</guid>
+            <pubDate>Sun, 24 Apr 2016 06:05:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SUPERIOR PERFORMANCE]]></title>
             <description><![CDATA[<article><h1>SUPERIOR PERFORMANCE</h1><p>Traditional gamepads force us to accept compromises. We’ve made it a goal to improve upon the resolution and fidelity of input that’s possible with those devices. The Steam controller offers a new and, we believe, vastly superior control scheme, all while enabling you to play from the comfort of your sofa. Built with high-precision input technologies and focused on low-latency performance, the Steam controller is just what the living-room ordered.</p></article>]]></description>
