@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[scontroler]]></title>
+        <description><![CDATA[scontroler]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Apr 2016 05:58:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A new way to play your entire Steam library from the sofa.</p>]]></description>
+            <link>undefineda-new-way-to-play-your-entire-steam-library-from-the-sofa/index.html</link>
+            <guid isPermaLink="false">10b628f1-9673-45d4-aafb-22f3d7d856c3</guid>
+            <pubDate>Sun, 24 Apr 2016 05:58:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
