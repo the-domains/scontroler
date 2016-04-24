@@ -4,8 +4,15 @@
         <description><![CDATA[scontroler]]></description>
         <link>https://thegrid.ai/scontroler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 06:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 06:14:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scontroler/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[COMPLETE CATALOG]]></title>
+            <description><![CDATA[<article><h1>COMPLETE CATALOG</h1><p>The Steam Controller is designed to work with all the games on Steam: past, present, and future. Even the older titles in the catalog and the ones which were not built with controller support. (We’ve fooled those older games into thinking they’re being played with a keyboard and mouse, but we’ve designed a gamepad that’s nothing like either one of those devices.) We think you’ll agree that we’re onto something with the Steam Controller, and now we want your help with the design process.</p></article>]]></description>
+            <link>https://thegrid.ai/scontroler/complete-catalog/index.html</link>
+            <guid isPermaLink="false">120ff9e5-d07b-43a0-84d8-c3903d584a85</guid>
+            <pubDate>Sun, 24 Apr 2016 06:14:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DUAL TRACKPADS]]></title>
             <description><![CDATA[<article><h1>DUAL TRACKPADS</h1><p>The most prominent elements of the Steam controller are its two circular trackpads. Driven by the player’s thumbs, each one has a high-resolution trackpad as its base. It is also clickable, allowing the entire surface to act as a button. The trackpads allow far higher fidelity input than has previously been possible with traditional handheld controllers. Steam gamers, who are used to the input associated with PCs, will appreciate that the Steam Controller’s resolution approaches that of a desktop mouse.</p></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/scontroler/superior-performance/index.html</link>
             <guid isPermaLink="false">82b321fb-54c3-459f-a10b-e32509bb4d2c</guid>
             <pubDate>Sun, 24 Apr 2016 06:04:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMPLETE CATALOG]]></title>
-            <description><![CDATA[<article><h1>COMPLETE CATALOG</h1><p></p></article>]]></description>
-            <link>https://thegrid.ai/scontroler/complete-catalog/index.html</link>
-            <guid isPermaLink="false">120ff9e5-d07b-43a0-84d8-c3903d584a85</guid>
-            <pubDate>Sun, 24 Apr 2016 06:03:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
