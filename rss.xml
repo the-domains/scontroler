@@ -4,8 +4,15 @@
         <description><![CDATA[scontroler]]></description>
         <link>https://thegrid.ai/scontroler/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 06:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 06:06:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scontroler/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DUAL TRACKPADS]]></title>
+            <description><![CDATA[<article><h1>DUAL TRACKPADS</h1><p>The most prominent elements of the Steam controller are its two circular trackpads. Driven by the player’s thumbs, each one has a high-resolution trackpad as its base. It is also clickable, allowing the entire surface to act as a button. The trackpads allow far higher fidelity input than has previously been possible with traditional handheld controllers. Steam gamers, who are used to the input associated with PCs, will appreciate that the Steam Controller’s resolution approaches that of a desktop mouse.</p></article>]]></description>
+            <link>https://thegrid.ai/scontroler/dual-trackpads/index.html</link>
+            <guid isPermaLink="false">bcb9049d-1033-4296-be4e-ce35f875968c</guid>
+            <pubDate>Sun, 24 Apr 2016 06:05:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HAPTICS]]></title>
             <description><![CDATA[<article><h1>HAPTICS</h1><p>Trackpads, by their nature, are less physical than thumbsticks. By themselves, they are “light touch” devices and don’t offer the kind of visceral feedback that players get from pushing joysticks around. As we investigated trackpad-based input devices, it became clear through testing that we had to find ways to add more physicality to the experience. It also became clear that “rumble”, as it has been traditionally implemented (a lopsided weight spun around a single axis), was not going to be enough. Not even close.</p></article>]]></description>
